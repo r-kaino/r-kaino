@@ -1,5 +1,3 @@
 # r-kaino
 
-test
-test-sc
-
+サンプルです。
